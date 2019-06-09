@@ -6,5 +6,5 @@ class App < Sinatra::Base
     # some code to get all the medicines
     # some code to render the correct HTML page
  end
- 
+
 end
